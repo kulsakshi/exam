@@ -1,1 +1,2 @@
 # exam
+ print('hello Git! ')
